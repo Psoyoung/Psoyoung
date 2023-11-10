@@ -28,10 +28,9 @@
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/postgresql-FFCA28?style=for-the-badge&logo=postgresqle&logoColor=white">
     </div>
-</div>  
+    
 #### Once I've used 
 
-<div style="display:flex; flex-direction:row;">
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
